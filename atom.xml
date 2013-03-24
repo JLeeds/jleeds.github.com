@@ -4,7 +4,7 @@
   <title><![CDATA[Homeworks Consultation]]></title>
   <link href="http://JLeeds.github.com/atom.xml" rel="self"/>
   <link href="http://JLeeds.github.com/"/>
-  <updated>2013-03-24T12:09:27-05:00</updated>
+  <updated>2013-03-24T12:14:11-05:00</updated>
   <id>http://JLeeds.github.com/</id>
   <author>
     <name><![CDATA[Jenn Leeds]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://JLeeds.github.com/blog/2013/03/24/hello-world/"/>
+    <updated>2013-03-24T12:12:00-05:00</updated>
+    <id>http://JLeeds.github.com/blog/2013/03/24/hello-world</id>
+    <content type="html"><![CDATA[<p>&#8220;hello world!&#8221;</p>
+]]></content>
+  </entry>
   
 </feed>
